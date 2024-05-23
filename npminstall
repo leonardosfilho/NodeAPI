@@ -1,0 +1,11 @@
+express
+express-async-errors
+sqlite
+sqlite3
+bcryptjs
+knex
+npx knex init - arquivo de configuração knex
+
+UP: MÉTODO RESPONSÁVEL POR CRIAR OU ALTERAR ALGO NO BANCO DE DADOS;
+
+DOWN: RESPONSÁVEL PELO ROLLBACK. OU SEJA, DESFAZER AS ALTERAÇÕES REALIZADAS PELA MIGRATION.
