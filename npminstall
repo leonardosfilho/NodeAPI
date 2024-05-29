@@ -4,6 +4,7 @@ sqlite
 sqlite3
 bcryptjs
 knex
+jsonwebtoken
 npx knex init - arquivo de configuração knex
 
 UP: MÉTODO RESPONSÁVEL POR CRIAR OU ALTERAR ALGO NO BANCO DE DADOS;
